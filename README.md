@@ -1,4 +1,4 @@
-# class-component
+# vue2-ts-class-styled-component
 
 reference: [vue-property-decorator](https://www.npmjs.com/package/vue-property-decorator)
 
