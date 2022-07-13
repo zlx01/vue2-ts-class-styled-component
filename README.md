@@ -1,5 +1,7 @@
 # class-component
 
+reference: [vue-property-decorator](https://www.npmjs.com/package/vue-property-decorator)
+
 ## Project setup
 ```
 npm install
